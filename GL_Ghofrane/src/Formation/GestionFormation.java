@@ -38,16 +38,16 @@ public class GestionFormation {
                     this.setDescription(value);
                     break;
                 case "dateDebut":
-                    // Implémenter la conversion de la chaîne en objet Date si nécessaire
+                    // conversion de la chaîne en objet Date 
                     break;
                 case "dateFin":
-                    // Implémenter la conversion de la chaîne en objet Date si nécessaire
+                    // conversion de la chaîne en objet Date 
                     break;
                 case "lieu":
-                    // Implémenter la mise à jour du lieu
+                    // la mise à jour du lieu
                     break;
                 case "formateur":
-                    // Implémenter la mise à jour du formateur
+                    //  la mise à jour du formateur
                     break;
                 default:
                     System.out.println("Clé d'information invalide : " + key);
